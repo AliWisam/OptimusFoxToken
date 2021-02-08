@@ -1,8 +1,8 @@
 # OptimusFoxToken
 
-### install Node JS
+### *install Node JS*
 
-### install ganache GUI
+### *install ganache GUI*
 
 ## Truffle is a development framework for Ethereum which allows you to deploy and test smart contracts quickly.
 npm install -g truffle
