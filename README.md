@@ -26,8 +26,9 @@ cd ..
 truffle deploy
 
 const contractAddress ='0xa8dC92bEeF9E5D20B21A5CC01bf8b6a5E0a51888';
-Copy deployed contract address from cmd and paste in app.js in the client>src folder
 ```
+Copy deployed contract address from cmd and paste in app.js in the client>src folder
+
 ### Approve the transacting account
 ``` truffle console ```
 ### Your prompt should now change to truffle(ganache)> or similar. Enter:
